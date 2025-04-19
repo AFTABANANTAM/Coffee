@@ -24,7 +24,7 @@ A visually appealing, interactive, and responsive coffee shop website built usin
 
 1. Clone this repository or download the ZIP:
    ```bash
-   git clone https://github.com/AFTABANANTAM/coffee-website.git
+   git clone https://github.com/AFTABANANTAM/Coffee.git
    ```
 2. Open `index.html` in your browser.
 3. Explore different sections like Home, About, Menu, Reviews, and Book.
